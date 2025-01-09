@@ -23,7 +23,7 @@ I graduated *Summa Cum Laude* from UC Berkeley in May 2024, with Bachelor of Art
 
 Financial markets often fail to address important issues when they lack funding incentives. We see this, for example, in the underfunding of novel antibiotic discovery and tuberculosis vaccine development, despite the need. My research seeks to address these problems at large, using basic scientific advances to change our assumptions and create viable financing models for underserved indications.
 
-From here, I'm broadly interested in studying molecular co-evolution between different organisms and natural systems to inform economic vaccine development and immunological aging for pan-immune rejuvenation. My previous research focused on the development of molecular tools and the study of host-pathogen interactions in methicillin-resistant  *Staphylococcus aureus* and *Mycobacterium tuberculosis*.
+From here, I'm broadly interested in studying i. the molecular co-evolution between different organisms and natural systems to inform economic vaccine development and ii. immunological aging to inform pan-immune rejuvenation. My previous research focused on developing molecular tools using biochemistry abd synthetic biology as well as studying host-pathogen interactions in methicillin-resistant *Staphylococcus aureus* and *Mycobacterium tuberculosis*.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I started at MIT as a PhD student!
