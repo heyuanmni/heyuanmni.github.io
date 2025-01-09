@@ -17,44 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at the Biological Engineering Department at Massachusetts Institute of Technology (MIT).
+I am a PhD student in the Biological Engineering Department at MIT.
 
-I graduated from University of California, Berkeley *Summa Cum Laude* May 2024, with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, and a Bachelor of Science degree in Business Administration.
+I graduated *Summa Cum Laude* from UC Berkeley, in May 2024, with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, as well as a Bachelor of Science degree in Business Administration. My research bridges the life sciences and business, aiming to leverage basic scientific advances to address diseases overlooked by traditional market incentives. I'm broadly interested in studying the molecular co-evolution between different organisms, natural systems discovery, and immunological aging.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My prior research focused on developing molecular tools and and investigating host-pathogen interactions. <a href='https://scholar.google.com/citations?user=WbQ0-o0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 I started at MIT as a PhD student!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology</div><img src='images/DCIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Delivered complementation in planta (DCIP) enables measurement of peptide-mediated protein delivery efficiency in plants](https://doi.org/10.1038/s42003-023-05191-5)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward Lien, Cerise Wong, Eduardo González-Grandío, and Markita P. Landry
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A split-GFP tool allowing confocal microscopy readout of protein cargo delivery efficiency in plant leaves.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* Outstanding Scholar in Biophysics, Biochemistry, and Structural Biology. One of the three awards given to outstanding graduating seniors in the Biophysics, Biochemistry, and Structural Biology Division for excellence in academic achievement and undergraduate research.
+- *2023.10* Rhodes Scholarship 2024 Finalist. 14 finalists (2%) were selected from ~750 applicants in the China constituency.
+- *2023.08* The Leadership Award (TLA) 2023-2024. Awarded to UC Berkeley student leaders (2.4% of applicants).
+- *2023.05* Paul Westberg Research Scholar Fund. Research Scholarship awarded to the most outstanding researcher in the Robinson Life Science, Business, and Entrepreneurship Program who envisions serving unmet needs in their future career.
+- *2023.04* Jeremy Thorner Research Prize. One of three awards given to outstanding juniors in the Biophysics, Biochemistry, and Structural Biology Division for excellence in undergraduate research.
+- *2022.08* The Leadership Award (TLA) 2022-2023. Awarded to UC Berkeley student leaders (2.4% of applicants).
+- *2020.11* Gold Medal, iGEM 2020. Awarded gold medal for project "Acneutralizer" with team Beijing_4ELEVEN.
+- *2019.11* Gold Medal, iGEM 2019. Awarded gold medal for project "Digitized bistable module for conditional suicide in engineered bacteria" with team BHSF_ND.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08 - current*, Graduate, Department of Biological Engineering, Massachusetts Institute of Technology.
+- *2022.08 - 2024.05*, Undergraduate, Haas School of Business, University of California, Berkeley.
+- *2020.08 - 2024.05*, Undergraduate, College of Computing, Data Science, and Society, University of California, Berkeley.
+- *2020.08 - 2024.05*, Undergraduate, College of Letters and Science, University of California, Berkeley.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.05*, Unbiased exoproteomic screen uncovering novel Staphylococcus aureus virulence factors, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
+- *2024.04*, Discovery of novel virulence factor informs Staphylococcus aureus treatments, UC Berkeley Molecular and Cell Biology Undergraduate Student Association Research Symposium.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 🧪 Internships
+- *2021.06 - 2021.08*, Consulting Intern, PricewaterhouseCoopers.
+- *2020.07 - 2020.12*, Research Intern, Bluepha Co., Ltd.
