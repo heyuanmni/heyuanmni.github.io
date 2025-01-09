@@ -51,15 +51,15 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 - *2019.11* Gold Medal, iGEM 2019. Awarded gold medal for project "Digitized bistable module for conditional suicide in engineered bacteria" with team BHSF_ND.
 
 
-# 📖 Educations
+# 📖 Education
 - *2024.08 - current*, Graduate, Department of Biological Engineering, Massachusetts Institute of Technology.
-- *2022.08 - 2024.05*, Undergraduate, Haas School of Business, University of California, Berkeley.
-- *2020.08 - 2024.05*, Undergraduate, College of Computing, Data Science, and Society, University of California, Berkeley.
-- *2020.08 - 2024.05*, Undergraduate, College of Letters and Science, University of California, Berkeley.
+- *2022.08 - 2024.05*, B.S. Business Administration, Haas School of Business, University of California, Berkeley.
+- *2020.08 - 2024.05*, B.A. Data Science, College of Computing, Data Science, and Society, University of California, Berkeley.
+- *2020.08 - 2024.05*, B.A. Molecular and Cell Biology, College of Letters and Science, University of California, Berkeley.
 
 # 💬 Invited Talks
 - *2024.05*, Unbiased exoproteomic screen uncovering novel Staphylococcus aureus virulence factors, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
-- *2024.04*, Discovery of novel virulence factor informs Staphylococcus aureus treatments, UC Berkeley Molecular and Cell Biology Undergraduate Student Association Research Symposium.
+- *2024.04*, Discovery of novel virulence factors informs effective Staphylococcus aureus treatment, UC Berkeley Molecular and Cell Biology Undergraduate Student Association Research Symposium.
 
 
 # 🧪 Internships
