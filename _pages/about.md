@@ -19,7 +19,7 @@ redirect_from:
 
 I am a PhD student in the Biological Engineering Department at MIT.
 
-I graduated *Summa Cum Laude* from UC Berkeley, in May 2024, with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, as well as a Bachelor of Science degree in Business Administration. Financial markets often fail to address important issues because they lack viable financing models. We see this, for example, in the underfunding of antibiotics and vaccines for tuberculosis, despite the need. My research seeks to address these problems on a broad scale, using basic scientific advances to change our assumptions and make once-unviable funding models viable. From here, I'm broadly interested in studying molecular co-evolution between different organisms and natural systems to inform economic vaccine development and immunological aging for pan-immune rejuvenation. My previous research focused on the development of molecular tools and the study of host-pathogen interactions.
+I graduated *Summa Cum Laude* from UC Berkeley, in May 2024, with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, and a Bachelor of Science degree in Business Administration. Financial markets often fail to address important issues when they lack funding incentives. We see this, for example, in the underfunding of novel antibiotic discovery and tuberculosis vaccine development, despite the need. My research seeks to address these problems at large, using basic scientific advances to change our assumptions and create viable financing models for underserved indications. From here, I'm broadly interested in studying molecular co-evolution between different organisms and natural systems to inform economic vaccine development and immunological aging for pan-immune rejuvenation. My previous research focused on the development of molecular tools and the study of host-pathogen interactions in methicillin-resistant  *Staphylococcus aureus* and *Mycobacterium tuberculosis*.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I started at MIT as a PhD student!
@@ -55,8 +55,8 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 - *2020.08 - 2024.05*, B.A. Molecular and Cell Biology, College of Letters and Science, University of California, Berkeley.
 
 # 💬 Invited Talks
-- *2024.05*, Unbiased exoproteomic screen uncovering novel Staphylococcus aureus virulence factors, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
-- *2024.04*, Discovery of novel virulence factors informs effective Staphylococcus aureus treatment, UC Berkeley Molecular and Cell Biology Undergraduate Student Association Research Symposium.
+- *2024.05*, Unbiased exoproteomic screen uncovering novel *Staphylococcus aureus* virulence factors, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
+- *2024.04*, Discovery of novel virulence factors provides basis for effective treatment of *Staphylococcus aureus* infections, UC Berkeley Molecular and Cell Biology Undergraduate Student Association Research Symposium.
 
 
 # 🧪 Internships
