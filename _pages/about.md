@@ -53,7 +53,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 
 # 📖 Education
-- *2024.08 - current*, Ph.D. Student, Department of Biological Engineering, Massachusetts Institute of Technology.
+- *2024.08 - 2030.05 (expected)*, Ph.D. Biological Engineering, School of Engineering, Massachusetts Institute of Technology.
 - *2022.08 - 2024.05*, B.S. Business Administration, Haas School of Business, University of California, Berkeley.
 - *2020.08 - 2024.05*, B.A. Data Science, College of Computing, Data Science, and Society, University of California, Berkeley.
 - *2020.08 - 2024.05*, B.A. Molecular and Cell Biology, College of Letters and Science, University of California, Berkeley.
