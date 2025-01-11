@@ -63,7 +63,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 - *2021 - 2022* &nbsp;**Undergraduate Researcher, [Markita Landry Lab](https://landrylab.com)**. Biochemistry and synthetic biology for CRISPR delivery in plants.
 
 
-# ⚙️ Industry Experience
+# 📃 Industry Experience
 - *2023 - 2024* &nbsp;**Contract Consultant, Gilead Sciences**. Dynamic forecasting tools for comparative temporal and inter-organizational financial analysis.
 - *2021* &nbsp;**ESG Consulting Intern, PricewaterhouseCoopers**. Climate change related physical and transition risks, carbon assets, and green investment.
 - *2020* &nbsp;**Research and Development Intern, Bluepha**. Recombinant protein biomanufacturing in *Pichia pastori*.
