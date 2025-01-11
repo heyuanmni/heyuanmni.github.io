@@ -46,8 +46,8 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 \* co-first authors
 
 # 💬 Invited Talks
-- *2024.05* &nbsp;Unbiased exoproteomic screen uncovering novel *Staphylococcus aureus* virulence factors, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
-- *2024.04* &nbsp;Discovery of novel virulence factors provides basis for effective treatment of *Staphylococcus aureus* infections, UC Berkeley Molecular and Cell Biology Undergraduate Student Association Research Symposium.
+- *2024.05* &nbsp;**Unbiased exoproteomic screen uncovering novel *Staphylococcus aureus* virulence factors**, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
+- *2024.04* &nbsp;**Discovery of novel virulence factors provides basis for effective treatment of *Staphylococcus aureus* infections**, UC Berkeley Molecular and Cell Biology Undergraduate Student Association Research Symposium.
 
 
 # 📖 Education
