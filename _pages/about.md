@@ -19,9 +19,9 @@ redirect_from:
 
 I am a PhD student in the Biological Engineering Department at MIT.
 
-I graduated *Summa Cum Laude* from UC Berkeley in May 2024, with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, and a Bachelor of Science degree in Business Administration.
+I graduated *Summa Cum Laude* from UC Berkeley in May 2024 with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, as well as a Bachelor of Science degree in Business Administration.
 
-Financial markets often fail to address important issues when they lack funding incentives. We see this, for example, in the underfunding of novel antibiotic discovery and tuberculosis vaccine development, despite the need. My research seeks to address these problems at large, using basic scientific advances to change our assumptions and create viable financing models for underserved indications.
+Financial markets often overlook critical issues due to inadequate funding incentives. This is evident in the underfunding of novel antibiotic discovery and tuberculosis vaccine development, despite their critical need. My research seeks to address these broader problems. I aim to leverage basic scientific advances to challenge existing assumptions and develop viable financing models for underserved disease indications.
 
 From here, I am broadly interested in two areas of research: (i) exploring molecular co-evolution between organisms and natural systems to guide cost-effective vaccine development, and (ii) understanding immunological aging to advance pan-immune rejuvenation strategies.
 
@@ -46,7 +46,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 \* co-first authors
 
 # 💬 Invited Talks
-- *2024.05* &nbsp;**Unbiased exoproteomic screen uncovering novel *Staphylococcus aureus* virulence factors**, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
+- *2024.05* &nbsp;**Unbiased exoproteomic screen reveals novel *Staphylococcus aureus* virulence factors**, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
 - *2024.04* &nbsp;**Discovery of novel virulence factors provides basis for effective treatment of *Staphylococcus aureus* infections**, UC Berkeley Molecular and Cell Biology Undergraduate Student Association Research Symposium.
 
 
@@ -74,10 +74,10 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 - *2024 - Present* &nbsp;**Associate, Nucleate Boston**. Manage relationships with Nucleate Activator alumni.
 - *2024 - Present* &nbsp;**Associate, MIT-China Innovation and Entrepreneurship Forum**. Organize entrepreneurship forums highlighting Chinese key opinion leaders in the Boston area.
 - *2022 - Present* &nbsp;**North American Ambassador, iGEM Community**. Advocate for open science, biosafety, and biosecurity in the synthetic biology ecosystem.
-- *2022 - Present* &nbsp;**Co-Founder & Executive Board, US-China Life Science Venture Club**. Bridging the entrepreneurial and venture capital systems between the US and China.
+- *2022 - Present* &nbsp;**Co-Founder & Executive Board, US-China Life Science Venture Club**. Facilitating collaboration between the US and China's entrepreneurial and venture capital ecosystems.
 - *2023 - 2024* &nbsp;**Founder, Bay Area Synthetic Biology Alliance**. Organized the inaugural Bay Area Bioengineering Symposium.
 - *2022 - 2024* &nbsp;**Co-President, Translational Medicine and Stem Cell Association**. Form strategic partnerships and host Bay Area-wide conferences on translational medicine.
-- *2020 - 2024* &nbsp;**Experimental Director, iGEM at Berkeley**. Create student-led research opportunities for undates. Host campus-wide and Bay Area-wide research symposia.
+- *2020 - 2024* &nbsp;**Experimental Director, iGEM at Berkeley**. Create student-led research opportunities for undergraduates. Host campus-wide and Bay Area-wide research symposia.
 
 
 # 🎖 Awards and Fellowships
