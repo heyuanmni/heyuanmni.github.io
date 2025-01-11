@@ -16,10 +16,10 @@ main:
     url: "/#-education"
 
   - title: "Research Experience"
-    url: "/#-research"
+    url: "/#-research-experience"
 
   - title: "Industry Experience"
-    url: "/#-industry"
+    url: "/#-industry-experience"
 
   - title: "Services"
     url: "/#-services"
