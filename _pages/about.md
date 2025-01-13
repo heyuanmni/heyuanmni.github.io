@@ -58,36 +58,36 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 
 # 🧪 Research Experience
-- *2022 - 2024* &nbsp;**Undergraduate Researcher, [Sarah Stanley Lab](https://www.thestanleylab.org)**. Microbiology and structural bioinformatics for unbiased virulence factor discovery in *Staphylococcus aureus*. Helper T cell dynamics in *Mycobacterium tuberculosis* pathogenesis.
-- *2022 - 2024* &nbsp;**Clinical Researcher, [Osama Mohamad Lab](https://faculty.mdanderson.org/profiles/osama_mohamad.html)**. Use of artificial intelligence in digital pathology for prostate cancer.
-- *2021 - 2022* &nbsp;**Undergraduate Researcher, [Markita Landry Lab](https://landrylab.com)**. Biochemistry and synthetic biology for CRISPR delivery in plants.
+- *2022 - 2024* &nbsp;**Undergraduate Researcher \| [Sarah Stanley Lab](https://www.thestanleylab.org)**. Microbiology and structural bioinformatics for unbiased virulence factor discovery in *Staphylococcus aureus*. Helper T cell dynamics in *Mycobacterium tuberculosis* pathogenesis.
+- *2022 - 2024* &nbsp;**Clinical Researcher \| [Osama Mohamad Lab](https://faculty.mdanderson.org/profiles/osama_mohamad.html)**. Use of artificial intelligence in digital pathology for prostate cancer.
+- *2021 - 2022* &nbsp;**Undergraduate Researcher \| [Markita Landry Lab](https://landrylab.com)**. Biochemistry and synthetic biology for CRISPR delivery in plants.
 
 
 # 📃 Industry Experience
-- *2023 - 2024* &nbsp;**Contract Consultant, Gilead Sciences**. Dynamic financial forecasting, temporal and inter-organizational comparative analysis.
-- *2021* &nbsp;**ESG Consulting Intern, PricewaterhouseCoopers**. Climate change physical and transition risks, carbon assets, and green investment.
-- *2020* &nbsp;**Research and Development Intern, Bluepha**. Recombinant protein biomanufacturing in *Pichia pastori*.
+- *2023 - 2024* &nbsp;**Contract Consultant \| Gilead Sciences**. Dynamic financial forecasting, temporal and inter-organizational comparative analysis.
+- *2021* &nbsp;**ESG Consulting Intern \| PricewaterhouseCoopers**. Climate change physical and transition risks, carbon assets, and green investment.
+- *2020* &nbsp;**Research and Development Intern \| Bluepha**. Recombinant protein biomanufacturing in *Pichia pastori*.
 
 
 # 🤝 Services
-- *2024 - Present* &nbsp;**Content Creator, Regenesis**. Create Chinese content on biomolecular engineering, synthetic biology, and systems biology.
-- *2024 - Present* &nbsp;**Associate, Nucleate Boston**. Manage relationships with Nucleate Activator alumni.
-- *2024 - Present* &nbsp;**Associate, MIT-China Innovation and Entrepreneurship Forum**. Organize entrepreneurship forums highlighting Chinese key opinion leaders in the Boston area.
-- *2022 - Present* &nbsp;**North American Ambassador, iGEM Community**. Advocate for open science, biosafety, and biosecurity in the synthetic biology ecosystem.
-- *2022 - Present* &nbsp;**Co-Founder & Executive Board, US-China Life Science Venture Club**. Facilitating collaboration between the US and China's entrepreneurial and venture capital ecosystems.
-- *2023 - 2024* &nbsp;**Founder, Bay Area Synthetic Biology Alliance**. Organized the inaugural Bay Area Bioengineering Symposium.
-- *2022 - 2024* &nbsp;**Co-President, Translational Medicine and Stem Cell Association**. Form strategic partnerships and host Bay Area-wide conferences on translational medicine.
-- *2020 - 2024* &nbsp;**Experimental Director, iGEM at Berkeley**. Create student-led research opportunities for undergraduates. Host campus-wide and Bay Area-wide research symposia.
+- *2024 - Present* &nbsp;**Content Creator \| Regenesis**. Create Chinese content on biomolecular engineering, synthetic biology, and systems biology.
+- *2024 - Present* &nbsp;**Associate \| Nucleate Boston**. Manage relationships with Nucleate Activator alumni.
+- *2024 - Present* &nbsp;**Associate \| MIT-China Innovation and Entrepreneurship Forum**. Organize entrepreneurship forums highlighting Chinese key opinion leaders in the Boston area.
+- *2022 - Present* &nbsp;**North American Ambassador \| iGEM Community**. Advocate for open science, biosafety, and biosecurity in the synthetic biology ecosystem.
+- *2022 - Present* &nbsp;**Co-Founder & Executive Board \| US-China Life Science Venture Club**. Facilitating collaboration between the US and China's entrepreneurial and venture capital ecosystems.
+- *2023 - 2024* &nbsp;**Founder \| Bay Area Synthetic Biology Alliance**. Organized the inaugural Bay Area Bioengineering Symposium.
+- *2022 - 2024* &nbsp;**Co-President \| Translational Medicine and Stem Cell Association**. Form strategic partnerships and host Bay Area-wide conferences on translational medicine.
+- *2020 - 2024* &nbsp;**Experimental Director \| iGEM at Berkeley**. Create student-led research opportunities for undergraduates. Host campus-wide and Bay Area-wide research symposia.
 
 
 # 🎖 Awards and Fellowships
-- *2024.05* &nbsp;**Outstanding Scholar in Biophysics, Biochemistry, and Structural Biology | UC Berkeley**. 1/3 awards to graduating seniors in biophysics, biochemistry, and structural biology.
-- *2024.05* &nbsp;**Society Member | Beta Gamma Sigma International Business Honors Society**.
-- *2024.02* &nbsp;**Society Member | Phi Beta Kappa Honors Society**.
-- *2023.10* &nbsp;**Rhodes Scholarship 2024 Finalist | Rhodes Trust**. 14/750 applicants in the China constituency.
-- *2023.08* &nbsp;**The Leadership Award (TLA) 2023-2024 | Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
-- *2023.05* &nbsp;**Paul Westberg Research Scholar Fund | UC Berkeley**. Awarded to the most outstanding student researcher in the Robinson Life Science, Business, and Entrepreneurship Program who envisions serving unmet needs in their research career.
-- *2023.04* &nbsp;**Jeremy Thorner Research Prize | UC Berkeley**. 1/3 awards to undergraduate researchers in biophysics, biochemistry, and structural biology who are in their penultimate year.
-- *2022.08* &nbsp;**The Leadership Award (TLA) 2022-2023 | Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
-- *2020.11* &nbsp;**Gold Medal | iGEM 2020**. Awarded gold medal for project "Acneutralizer" with team Beijing_4ELEVEN.
-- *2019.11* &nbsp;**Gold Medal | iGEM 2019**. Awarded gold medal for project "Digitized bistable module for conditional suicide in engineered bacteria" with team BHSF_ND.
+- *2024.05* &nbsp;**Outstanding Scholar in Biophysics, Biochemistry, and Structural Biology \| UC Berkeley**. 1/3 awards to graduating seniors in biophysics, biochemistry, and structural biology.
+- *2024.05* &nbsp;**Society Member \| Beta Gamma Sigma International Business Honors Society**.
+- *2024.02* &nbsp;**Society Member \| Phi Beta Kappa Honors Society**.
+- *2023.10* &nbsp;**Rhodes Scholarship 2024 Finalist \| Rhodes Trust**. 14/750 applicants in the China constituency.
+- *2023.08* &nbsp;**The Leadership Award (TLA) 2023-2024 \| Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
+- *2023.05* &nbsp;**Paul Westberg Research Scholar Fund \| UC Berkeley**. Awarded to the most outstanding student researcher in the Robinson Life Science, Business, and Entrepreneurship Program who envisions serving unmet needs in their research career.
+- *2023.04* &nbsp;**Jeremy Thorner Research Prize \| UC Berkeley**. 1/3 awards to undergraduate researchers in biophysics, biochemistry, and structural biology who are in their penultimate year.
+- *2022.08* &nbsp;**The Leadership Award (TLA) 2022-2023 \| Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
+- *2020.11* &nbsp;**Gold Medal \| iGEM 2020**. Awarded gold medal for project "Acneutralizer" with team Beijing_4ELEVEN.
+- *2019.11* &nbsp;**Gold Medal \| iGEM 2019**. Awarded gold medal for project "Digitized bistable module for conditional suicide in engineered bacteria" with team BHSF_ND.
