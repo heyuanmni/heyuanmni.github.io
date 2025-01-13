@@ -64,8 +64,8 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 
 # 📃 Industry Experience
-- *2023 - 2024* &nbsp;**Contract Consultant, Gilead Sciences**. Dynamic forecasting tools for comparative temporal and inter-organizational financial analysis.
-- *2021* &nbsp;**ESG Consulting Intern, PricewaterhouseCoopers**. Climate change related physical and transition risks, carbon assets, and green investment.
+- *2023 - 2024* &nbsp;**Contract Consultant, Gilead Sciences**. Dynamic forecasting for temporal and inter-organizational comparative financial analysis.
+- *2021* &nbsp;**ESG Consulting Intern, PricewaterhouseCoopers**. Climate change physical and transition risks, carbon assets, and green investment.
 - *2020* &nbsp;**Research and Development Intern, Bluepha**. Recombinant protein biomanufacturing in *Pichia pastori*.
 
 
