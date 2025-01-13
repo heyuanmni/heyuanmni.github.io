@@ -81,13 +81,13 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 
 # 🎖 Awards and Fellowships
-- *2024.05* &nbsp;**Outstanding Scholar in Biophysics, Biochemistry, and Structural Biology. UC Berkeley**. 1/3 awards to graduating seniors in biophysics, biochemistry, and structural biology.
+- *2024.05* &nbsp;**Outstanding Scholar in Biophysics, Biochemistry, and Structural Biology, UC Berkeley**. 1/3 awards to graduating seniors in biophysics, biochemistry, and structural biology.
 - *2024.05* &nbsp;**Beta Gamma Sigma International Business Honors Society**.
 - *2024.02* &nbsp;**Phi Beta Kappa Honors Society**.
-- *2023.10* &nbsp;**Rhodes Scholarship 2024 Finalist. Rhodes Trust**. 14/750 applicants in the China constituency.
-- *2023.08* &nbsp;**The Leadership Award (TLA) 2023-2024. Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
-- *2023.05* &nbsp;**Paul Westberg Research Scholar Fund. UC Berkeley**. Awarded to the most outstanding student researcher in the Robinson Life Science, Business, and Entrepreneurship Program who envisions serving unmet needs in their research career.
-- *2023.04* &nbsp;**Jeremy Thorner Research Prize. UC Berkeley**. 1/3 awards to undergraduate researchers in biophysics, biochemistry, and structural biology who are in their penultimate year.
-- *2022.08* &nbsp;**The Leadership Award (TLA) 2022-2023. Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
-- *2020.11* &nbsp;**Gold Medal. iGEM 2020**. Awarded gold medal for project "Acneutralizer" with team Beijing_4ELEVEN.
-- *2019.11* &nbsp;**Gold Medal. iGEM 2019**. Awarded gold medal for project "Digitized bistable module for conditional suicide in engineered bacteria" with team BHSF_ND.
+- *2023.10* &nbsp;**Rhodes Scholarship 2024 Finalist, Rhodes Trust**. 14/750 applicants in the China constituency.
+- *2023.08* &nbsp;**The Leadership Award (TLA) 2023-2024, Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
+- *2023.05* &nbsp;**Paul Westberg Research Scholar Fund, UC Berkeley**. Awarded to the most outstanding student researcher in the Robinson Life Science, Business, and Entrepreneurship Program who envisions serving unmet needs in their research career.
+- *2023.04* &nbsp;**Jeremy Thorner Research Prize, UC Berkeley**. 1/3 awards to undergraduate researchers in biophysics, biochemistry, and structural biology who are in their penultimate year.
+- *2022.08* &nbsp;**The Leadership Award (TLA) 2022-2023, Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
+- *2020.11* &nbsp;**Gold Medal, iGEM 2020**. Awarded gold medal for project "Acneutralizer" with team Beijing_4ELEVEN.
+- *2019.11* &nbsp;**Gold Medal, iGEM 2019**. Awarded gold medal for project "Digitized bistable module for conditional suicide in engineered bacteria" with team BHSF_ND.
