@@ -19,11 +19,11 @@ redirect_from:
 
 I am a PhD student in the Biological Engineering Department at MIT.
 
-I graduated *Summa Cum Laude* from UC Berkeley in May 2024 with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, as well as a Bachelor of Science degree in Business Administration.
+I graduated *Summa Cum Laude* from UC Berkeley in May 2024 with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, as well as a Bachelor of Science degree in Business Administration. As a biologist, I was mostly trained as a biochemist and an immunologist.
 
 Financial markets often overlook critical issues due to inadequate funding incentives. This is evident in the underfunding of novel antibiotic discovery and tuberculosis vaccine development, despite their critical need. My research seeks to address these broader problems. I aim to leverage basic scientific advances to challenge existing assumptions and develop viable financing models for underserved disease indications.
 
-From here, I am broadly interested in two areas of research: (i) exploring molecular co-evolution between organisms and natural systems to guide cost-effective vaccine development, and (ii) understanding immunological aging to advance pan-immune rejuvenation strategies.
+From here, I am broadly interested in two areas of research: (i) exploring the molecular co-evolution between mammalian hosts, bacteria, and bacteriophages to leverage natural systems for guiding cost-effective vaccine development, and (ii) understanding immunological aging to advance pan-immune rejuvenation strategies. Inspired by the simplicity of molecular machines in the prokaryotic metagenome, I'm also interested in discovering new biology in the metagenomic "dark matter" through computational mining and wet lab validation.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I started at MIT as a PhD student!
@@ -43,7 +43,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 - "The state of the art in artificial intelligence and digital pathology in prostate cancer," **Heyuan Michael Ni**\*, Ali Sabbagh\*, Ramez Kouzy, Jean Feng, Simon Castillo, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad. In revision for *Nature Reviews Urology*.
 
-\* co-first authors
+\* authors of equal contributions
 
 # 💬 Invited Talks
 - *2024.05* &nbsp;**Unbiased exoproteomic screen reveals novel *Staphylococcus aureus* virulence factors**, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
