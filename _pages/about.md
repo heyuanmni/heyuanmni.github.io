@@ -43,7 +43,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 - "The state of the art in artificial intelligence and digital pathology in prostate cancer," **Heyuan Michael Ni**\*, Ali Sabbagh\*, Ramez Kouzy, Jean Feng, Simon Castillo, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad. In revision for *Nature Reviews Urology*.
 
-\* authors of equal contributions
+\* equal contributions
 
 # 💬 Invited Talks
 - *2024.05* &nbsp;**Unbiased exoproteomic screen reveals novel *Staphylococcus aureus* virulence factors**, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
@@ -71,7 +71,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 # 🤝 Services
 - *2024 - Present* &nbsp;**Content Creator \| Regenesis**. Create Chinese content on biomolecular engineering, synthetic biology, and systems biology.
-- *2024 - Present* &nbsp;**Associate \| Nucleate Boston**. Manage relationships with Nucleate Activator alumni.
+- *2024 - Present* &nbsp;**Alumni Relations Lead \| Nucleate Boston**. Manage relationships with Nucleate Activator alumni.
 - *2024 - Present* &nbsp;**Associate \| MIT-China Innovation and Entrepreneurship Forum**. Organize entrepreneurship forums highlighting Chinese key opinion leaders in the Boston area.
 - *2022 - Present* &nbsp;**North American Ambassador \| iGEM Community**. Advocate for open science, biosafety, and biosecurity in the synthetic biology ecosystem.
 - *2022 - Present* &nbsp;**Co-Founder & Executive Board \| US-China Life Science Venture Club**. Facilitating collaboration between the US and China's entrepreneurial and venture capital ecosystems.
