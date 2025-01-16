@@ -60,7 +60,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 # 🧪 Research Experience
 - *2022 - 2024* &nbsp;**Undergraduate Researcher \| [Sarah Stanley Lab](https://www.thestanleylab.org)**. Microbiology and structural bioinformatics for unbiased virulence factor discovery in *Staphylococcus aureus*. Helper T cell dynamics in *Mycobacterium tuberculosis* pathogenesis.
 - *2022 - 2024* &nbsp;**Clinical Researcher \| [Osama Mohamad Lab](https://faculty.mdanderson.org/profiles/osama_mohamad.html)**. Use of artificial intelligence in digital pathology for prostate cancer.
-- *2021 - 2022* &nbsp;**Undergraduate Researcher \| [Markita Landry Lab](https://landrylab.com)**. Biochemistry and synthetic biology for CRISPR delivery in plants.
+- *2021 - 2022* &nbsp;**Undergraduate Researcher \| [Markita Landry Lab](https://landrylab.com)**. Biochemistry and synthetic biology for CRISPR and TF delivery in plants.
 
 
 # 📃 Industry Experience
