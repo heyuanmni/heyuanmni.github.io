@@ -91,3 +91,5 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 - *2022.08* &nbsp;**The Leadership Award (TLA) 2022-2023 \| Cal Alumni Association**. Awarded to 2.4% of UC Berkeley student leader applicants.
 - *2020.11* &nbsp;**Gold Medal \| iGEM 2020**. Awarded gold medal for project "Acneutralizer" with team Beijing_4ELEVEN.
 - *2019.11* &nbsp;**Gold Medal \| iGEM 2019**. Awarded gold medal for project "Digitized bistable module for conditional suicide in engineered bacteria" with team BHSF_ND.
+- *2019.06* &nbsp;**Gold Medal \| British Biology Olympiad China Mainland Division**. Top 5% (51th place) out of 733 contestants nationwide.
+- *2019.06* &nbsp;**Gold Medal & National 1st Place\| United States of America Biology Olympiad China Mainland Division**. Ranked 1st place out of 526 contestants nationwide.
