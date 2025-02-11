@@ -21,9 +21,9 @@ I am a PhD student in the Biological Engineering Department at MIT.
 
 I graduated *Summa Cum Laude* from UC Berkeley in May 2024 with Bachelor of Arts degrees in Molecular and Cell Biology and Data Science, as well as a Bachelor of Science degree in Business Administration. As a biologist, I was mostly trained as a biochemist and an immunologist.
 
-Financial markets often overlook critical issues due to inadequate funding incentives. This is evident in the underfunding of novel antibiotic discovery and tuberculosis vaccine development, despite their critical need. My research seeks to address these broader problems. I aim to leverage basic scientific advances to challenge existing assumptions and develop viable financing models for underserved disease indications.
+Financial markets often overlook critical issues due to inadequate funding incentives. This is evident in the underfunding of, for example, novel antibiotic discovery and tuberculosis vaccine development, despite their critical need. My research seeks to address these broader problems. I aim to leverage basic scientific advances to challenge existing assumptions and develop viable financing models for underserved disease indications.
 
-From here, I am broadly interested in two areas of research: (i) exploring the molecular co-evolution between mammalian hosts, bacteria, and bacteriophages to leverage natural systems for guiding cost-effective vaccine development, and (ii) understanding immunological aging to advance pan-immune rejuvenation strategies. Inspired by the simplicity of molecular machines in the prokaryotic metagenome, I'm also interested in discovering new biology in the metagenomic "dark matter" through computational mining and wet lab validation.
+From here, I am broadly interested in two areas of research: (i) understanding and exploring the natural systems at the co-evolution interface between mammalian hosts, bacteria, and bacteriophages to guide therapeutic and vaccine development, and (ii) understanding immunological aging to advance pan-immune rejuvenation strategies. Inspired by the simplicity of molecular machines in the prokaryotic metagenome, I'm also interested in discovering new biology in the metagenomic "dark matter" through computational mining and wet lab validation.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 I started at MIT as a PhD student!
@@ -42,7 +42,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 </div>
 
 
-- "Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens," Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel D. Ernst, Forest White, Bryan Bryson. In revision for *Nature Microbiology*.
+- "Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens," Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Nature Microbiology*.
 
 - "Evolution-guided protein design of IscB for persistent, in vivo epigenome editing," Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler Mears, **Heyuan Michael Ni**, Rhiannon Macrae, and Feng Zhang. In revision for *Nature Biotechnology*.
 
