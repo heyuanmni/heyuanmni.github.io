@@ -42,7 +42,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 </div>
 
 
-- "Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens," Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Nature Microbiology*.
+- "Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens," Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Science Translational Medicine*.
 
 - "Evolution-guided protein design of IscB for persistent, in vivo epigenome editing," Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler Mears, **Heyuan Michael Ni**, Rhiannon Macrae, and Feng Zhang. In revision for *Nature Biotechnology*.
 
