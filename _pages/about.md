@@ -44,7 +44,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 - "Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens," Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Science Translational Medicine*.
 
-- "Evolution-guided protein design of IscB for persistent, *in vivo* epigenome editing," Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler Mears, **Heyuan Michael Ni**, Rhiannon Macrae, and Feng Zhang. In revision for *Nature Biotechnology*.
+- "Evolution-guided protein design of IscB for persistent, *in vivo* epigenome editing," Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler Mears, Rhiannon Macrae, **Heyuan Michael Ni**, and Feng Zhang. In revision for *Nature Biotechnology*.
 
 - "The state of the art in artificial intelligence and digital pathology in prostate cancer," **Heyuan Michael Ni**\*, Ali Sabbagh\*, Ramez Kouzy, Jean Feng, Simon Castillo, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad. In revision for *Nature Reviews Urology*.
 
