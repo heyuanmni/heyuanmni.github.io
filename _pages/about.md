@@ -41,20 +41,20 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 </div>
 </div>
 
-- "Evolution-guided protein design of IscB for persistent, *in vivo* epigenome editing," Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler Mears, Rhiannon Macrae, **Heyuan Michael Ni**, and Feng Zhang. In revision for *Nature Biotechnology*.
+- Evolution-guided protein design of IscB for persistent, *in vivo* epigenome editing. Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler Mears, Rhiannon Macrae, **Heyuan Michael Ni**, and Feng Zhang. In revision for *Nature Biotechnology*.
 
 
 ## 🤖 AI for Imaging Data
 
-- "The state of the art in artificial intelligence and digital pathology in prostate cancer," **Heyuan Michael Ni**\*, Ramez Kouzy\*, Ali Sabbagh\*, Michael K. Rooney, Jean Feng, Simon P. Castillo, Sherif M. Gadoue, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad. In revision for *Nature Reviews Urology*.
+- The state of the art in artificial intelligence and digital pathology in prostate cancer. **Heyuan Michael Ni**\*, Ramez Kouzy\*, Ali Sabbagh\*, Michael K. Rooney, Jean Feng, Simon P. Castillo, Sherif M. Gadoue, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad. In revision for *Nature Reviews Urology*.
 
 
 ## 🦠 Host-Microbe Interactions
 
-- "*Mycobacterium tuberculosis* suppresses protective Th17 responses during infection," Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia
+- *Mycobacterium tuberculosis* suppresses protective Th17 responses during infection. Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia
 Samani, Sarah Stanley. In revision for *Journal of Experimental Medicine*.
 
-- "Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens," Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Science Translational Medicine*.
+- [Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens] (https://doi.org/10.1101/2024.10.02.616386). Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Science Translational Medicine*.
 
 \* equal contributions
 
