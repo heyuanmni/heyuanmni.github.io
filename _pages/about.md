@@ -54,7 +54,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 - *Mycobacterium tuberculosis* suppresses protective Th17 responses during infection. Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia
 Samani, Sarah Stanley. In revision for *Journal of Experimental Medicine*.
 
-- [Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens] (https://doi.org/10.1101/2024.10.02.616386). Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Science Translational Medicine*.
+- [Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1101/2024.10.02.616386). Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Science Translational Medicine*.
 
 \* equal contributions
 
