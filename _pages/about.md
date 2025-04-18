@@ -28,6 +28,31 @@ My academic interests are twofold: (i) exploring the co-evolutionary dynamics am
 
 # 📝 Publications 
 
+## 🦠 Host-Microbe Interactions
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Revision: Science Translational Medicine</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1101/2024.10.02.616386)
+
+Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson
+
+- Human cell immunopeptidomics revealing MHC-II epitopes presented by dendritic cells infected by *Mycobacterium tuberculosis*.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Revision: Journal Experimental Medicine</div><img src='images/Mtb_Th17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Mycobacterium tuberculosis* suppresses protective Th17 responses during infection
+
+Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia Samani, and Sarah Stanley
+
+- Immunological characterization reveals that *Mycobacterium tuberculosis* ESX-1 and PDIM skew the T helper response toward a Th1 bias, suppressing the protective Th17 response.
+</div>
+</div>
+
 ## 🧬 Molecular Tool Development
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology</div><img src='images/DCIP.png' alt="sym" width="100%"></div></div>
@@ -47,14 +72,6 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 ## 🤖 AI for Imaging Data
 
 - The state of the art in artificial intelligence and digital pathology in prostate cancer. **Heyuan Michael Ni**\*, Ramez Kouzy\*, Ali Sabbagh\*, Michael K. Rooney, Jean Feng, Simon P. Castillo, Sherif M. Gadoue, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad. In revision for *Nature Reviews Urology*.
-
-
-## 🦠 Host-Microbe Interactions
-
-- *Mycobacterium tuberculosis* suppresses protective Th17 responses during infection. Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia
-Samani, Sarah Stanley. In revision for *Journal of Experimental Medicine*.
-
-- [Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1101/2024.10.02.616386). Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson. In revision for *Science Translational Medicine*.
 
 \* equal contributions
 
