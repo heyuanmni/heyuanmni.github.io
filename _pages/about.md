@@ -35,9 +35,9 @@ My academic interests are twofold: (i) exploring the co-evolutionary dynamics am
 
 [Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1101/2024.10.02.616386)
 
-Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel Ernst, Forest White, Bryan Bryson
+Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel D. Ernst, Forest M. White, Bryan D. Bryson
 
-- Human cell immunopeptidomics revealing MHC-II epitopes presented by dendritic cells infected by *Mycobacterium tuberculosis*.
+- Human cell immunopeptidomics revealing MHC-II epitopes presented by dendritic cells infected by *Mycobacterium tuberculosis* is enriched for surface and secreted proteins and virulence factors.
 </div>
 </div>
 
@@ -47,9 +47,9 @@ Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmu
 
 *Mycobacterium tuberculosis* suppresses protective Th17 responses during infection
 
-Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia Samani, and Sarah Stanley
+Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia Samani, and Sarah A. Stanley
 
-- Immunological characterization reveals that *Mycobacterium tuberculosis* ESX-1 and PDIM skew the T helper response toward a Th1 bias, suppressing the protective Th17 response.
+- *in vivo* immunological characterization in mice reveals that *Mycobacterium tuberculosis* ESX-1 and PDIM skew the T helper response toward a Th1 bias and suppresses the protective Th17 response.
 </div>
 </div>
 
@@ -62,7 +62,7 @@ Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina 
 
 Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward Lien, Cerise Wong, Eduardo González-Grandío, and Markita P. Landry
 
-- A split-GFP tool allowing confocal microscopy readout of protein cargo delivery efficiency in plant leaves.
+- A split-GFP tool allowing quantitative confocal microscopy readout of protein cargo delivery efficiency in plant leaves.
 </div>
 </div>
 
