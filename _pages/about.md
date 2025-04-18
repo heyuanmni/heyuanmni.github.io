@@ -35,7 +35,7 @@ My academic interests are twofold: (i) exploring the co-evolutionary dynamics am
 
 [Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1101/2024.10.02.616386)
 
-Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel D. Ernst, Forest M. White, Bryan D. Bryson
+Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel D. Ernst, Forest M. White, and Bryan D. Bryson
 
 - Human cell immunopeptidomics revealing MHC-II epitopes presented by dendritic cells infected by *Mycobacterium tuberculosis* is enriched for surface and secreted proteins and virulence factors.
 </div>
