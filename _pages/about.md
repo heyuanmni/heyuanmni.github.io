@@ -55,7 +55,7 @@ Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina 
 
 ## 🧬 Molecular Tool Development
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology</div><img src='images/DCIP_highres.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology</div><img src='images/DCIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Delivered complementation in planta (DCIP) enables measurement of peptide-mediated protein delivery efficiency in plants](https://doi.org/10.1038/s42003-023-05191-5)
