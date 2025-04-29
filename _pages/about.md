@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in the Department of Biological Engineering at MIT, with a background in molecular biology 🧬, immunology 🧫, and artificial intelligence 🤖.
+I am a PhD student in Biological Engineering at MIT, with training in molecular biology 🧬, microbiology 🦠, immunology 🧫, and artificial intelligence 🤖. My work harnesses AI to illuminate the “dark matter” of biology, namely the following:
 
-My research focuses on leveraging AI to advance functional genomics, particularly through high-content imaging techniques such as [optical pooled screening](https://doi.org/10.1016/j.cell.2019.09.016). I specialize in applying AI-driven image analysis to unravel the complex interactions between hosts and microbes, such as those occurring within phagosomes.
-
-My academic interests are twofold: (i) exploring the co-evolutionary dynamics among mammalian hosts, bacteria, and bacteriophages to inform the development of novel therapeutics and vaccines; and (ii) employing AI methodologies to delve into the less-charted territories of cell biology, aiming to shed light on previously elusive cellular processes.
+1. **Probe host–microbe–phage co-evolution**, mapping how mammals, bacteria and bacteriophages reaches the current evolutionary equilibrium to guide next-generation therapeutics and vaccines.
+2. **Leverage computer vision and high-content optical screening** to venture into underexplored cell biology, uncovering new mechanisms of pathogen sensing and control.  
+3. **Apply transfer learning** to build practical tools for mining nature’s hidden biochemical pathways and systems within the metagenome.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I started at MIT as a PhD student!
