@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Biological Engineering at MIT, with training in molecular biology 🧬, microbiology 🦠, immunology 🧫, and artificial intelligence 🤖. My work harnesses AI to illuminate the “dark matter” of biology, namely the following:
+I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). I am formally trained in molecular biology 🧬, microbiology 🦠, immunology 🧫, and artificial intelligence 🤖. My focus on doing functional genomics on host and microbes at their co-evolutionary interface by harnesses highthroughput experimentation and AI to illuminate the “dark matter” of biology, namely the following:
 
-1. **Probe host–microbe–phage co-evolution**, mapping how mammals, bacteria and bacteriophages reaches the current evolutionary equilibrium to guide next-generation therapeutics and vaccines.
-2. **Leverage computer vision and high-content optical screening** to venture into underexplored cell biology, uncovering new mechanisms of pathogen sensing and control.  
-3. **Apply transfer learning** to build practical tools for mining nature’s hidden biochemical pathways and systems within the metagenome.
+1. **Leverage computer vision and high-content optical screening** to venture into underexplored cell biology, uncovering new mechanisms of pathogen sensing and control.  
+2. **Apply genomic language models** to build practical tools for mining nature’s hidden biochemical pathways and systems within the metagenome.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I started at MIT as a PhD student!
