@@ -41,7 +41,7 @@ Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Revision: Journal of Experimental Medicine</div><img src='images/Mtb_Th17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><img src='images/Mtb_Th17.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Mycobacterium tuberculosis* suppresses protective Th17 responses during infection
