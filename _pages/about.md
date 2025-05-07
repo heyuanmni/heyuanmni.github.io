@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). I am formally trained in molecular biology 🧬, microbiology 🦠, immunology 🧫, and artificial intelligence 🤖. My focus on doing functional genomics on host and microbes at their co-evolutionary interface by harnesses highthroughput experimentation and AI to illuminate the “dark matter” of biology, namely the following:
+I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). I am trained as a molecular biologist 🧬, microbiologist 🦠, immunologist 🧫, and artificial intelligence scientist 🤖. My focus is on using functional genomics on host and microbes at their co-evolutionary interface by harnesses highthroughput experimentation and AI to illuminate the “dark matters” of biology, namely the following:
 
 1. **Leverage computer vision and high-content optical screening** to venture into underexplored cell biology, uncovering new mechanisms of pathogen sensing and control.  
 2. **Apply genomic language models** to build practical tools for mining nature’s hidden biochemical pathways and systems within the metagenome.
