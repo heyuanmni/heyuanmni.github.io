@@ -54,6 +54,17 @@ Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina 
 
 ## 🧬 Molecular Tool Development
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/IscB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evolution-guided protein design of IscB for persistent, *in vivo* epigenome editing](https://doi.org/10.1038/s41587-025-02655-3)
+
+Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler S. Mears, **Heyuan Michael Ni**, Rhiannon K. Macrae, and Feng Zhang
+
+- Evolution-guided engineering of IscB as a compact genomic and epigenomic editor in living cells.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Communications Biology</div><img src='images/DCIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,8 +75,6 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 - A split-GFP tool allowing quantitative confocal microscopy readout of protein cargo delivery efficiency in plant leaves.
 </div>
 </div>
-
-- Evolution-guided protein design of IscB for persistent, *in vivo* epigenome editing. Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler Mears, Rhiannon Macrae, **Heyuan Michael Ni**, and Feng Zhang. In revision for *Nature Biotechnology*.
 
 
 ## 🤖 AI for Imaging Data
