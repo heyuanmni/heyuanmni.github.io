@@ -61,7 +61,7 @@ Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina 
 
 Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler S. Mears, **Heyuan Michael Ni**, Rhiannon K. Macrae, and Feng Zhang
 
-- Evolution-guided engineering of IscB as a compact genomic and epigenomic editor in living cells.
+- Bioinformatics-guided engineering of the CRISPR-Cas9 progenitor IscB as a compact genomic and epigenomic editor in living cells and animal.
 </div>
 </div>
 
