@@ -17,17 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). I am trained as a molecular biologist 🧬, microbiologist 🦠, immunologist 🧫, and artificial intelligence scientist 🤖. My focus is on using functional genomics on host and microbes at their co-evolutionary interface by harnesses highthroughput experimentation and AI to illuminate the “dark matters” of biology, namely the following:
+I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). Trained as a molecular biologist 🧬, microbiologist 🦠, immunologist 🧫, and artificial‑intelligence scientist 🤖, I focus on using functional genomics and metagenomics to study host–microbe interactions at their co‑evolutionary interface. I harness high‑throughput experimentation, novel molecular tools, and AI to illuminate the “dark matter” of biology, namely the following:
 
-1. **Leverage computer vision and high-content optical screening** to venture into underexplored cell biology, uncovering new mechanisms of pathogen sensing and control.  
-2. **Apply genomic language models** to build practical tools for mining nature’s hidden biochemical pathways and systems within the metagenome.
+1. **Use AI and biochemistry to study bacterial and viral evolutionary dynamics** under host immune pressure and to mine novel biological systems from metagenomic data.
+2. **Develop novel molecular tools and tricks** to unlock hidden dimensions of biological research, such as *in vivo* cellular perturbation effects.
+3. **Leverage computer vision and high‑content optical screening** to explore uncharted aspects of cell biology and uncover novel mechanisms of pathogen sensing and control.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I started at MIT as a PhD student!
 
 # 📝 Publications 
 
-## 🦠 Host-Microbe Interactions
+## 🦠 Host-Microbe Co-Evolution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Revision: Science Translational Medicine</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,7 +78,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 </div>
 
 
-## 🤖 AI for Imaging Data
+## 🤖 Computer Vision in Biological Applications
 
 - The state of the art in artificial intelligence and digital pathology in prostate cancer. **Heyuan Michael Ni**\*, Ramez Kouzy\*, Ali Sabbagh\*, Michael K. Rooney, Jean Feng, Simon P. Castillo, Sherif M. Gadoue, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad. In revision for *Nature Reviews Urology*.
 
