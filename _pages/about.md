@@ -30,7 +30,7 @@ I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu)
 
 ## 🦠 Host-Microbe Co-Evolution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Revision: Science Translational Medicine</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint available</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1101/2024.10.02.616386)
@@ -42,10 +42,10 @@ Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted: PLOS Pathogens</div><img src='images/Mtb_Th17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint available</div><img src='images/Mtb_Th17.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Mycobacterium tuberculosis* suppresses protective Th17 responses during infection
+[*Mycobacterium tuberculosis* suppresses protective Th17 responses during infection](https://doi.org/10.1101/2025.05.08.652811)
 
 Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia Samani, and Sarah A. Stanley
 
