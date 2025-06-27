@@ -21,7 +21,7 @@ I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu)
 
 1. **At the molecular level, develop novel molecular tools and tricks** to unlock the hidden dimensions of molecular biology.
 2. **At the systems level, leverage computer vision and high‑content screening** to explore uncharted aspects of cell biology.
-3. **At the interorganismal level, use AI and biochemistry to model** and study the molecular evolutionary dynamics of bacteria and viruses.
+3. **At the interorganismal level, use AI and biochemistry to model** the molecular evolutionary dynamics of bacteria and viruses.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I started at MIT as a PhD student!
