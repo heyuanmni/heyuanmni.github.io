@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). Trained as a molecular biologist 🧬, microbiologist 🦠, immunologist 🧫, and artificial‑intelligence scientist 🤖, I focus on using AI and optical biology to study functional genomics and metagenomics at the host–microbe co‑evolutionary interface. I use high‑throughput experimentation, novel molecular tools, and AI to illuminate the “dark matter” of biology, namely the following:
+I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). Trained as a molecular biologist 🧬, microbiologist 🦠, immunologist 🧫, and artificial‑intelligence scientist 🤖, I focus on using AI and high-throughput experiments to study functional genomics and metagenomics at the host–microbe co‑evolutionary interface. My specific aims are:
 
-1. **Develop novel molecular tools and tricks** to unlock the hidden dimensions of biology, such as *in vivo* host cell perturbation effects in the context of bacterial pathogenesis.
-2. **Leverage computer vision and high‑content optical screening** to explore uncharted aspects of cell biology and uncover novel mechanisms of pathogen sensing and control.
-3. **Use AI and biochemistry to study bacterial and viral evolutionary dynamics** under host immune pressure and to mine novel biological systems from metagenomic data.
+1. **At the molecular level, develop novel molecular tools and tricks** to unlock the hidden dimensions of molecular biology.
+2. **At the systems level, leverage computer vision and high‑content screening** to explore uncharted aspects of cell biology.
+3. **At the interorganismal level, use AI and biochemistry to model** and study the molecular evolutionary dynamics of bacteria and viruses.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 I started at MIT as a PhD student!
