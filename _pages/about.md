@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). Trained as a molecular biologist 🧬, microbiologist 🦠, immunologist 🧫, and artificial‑intelligence scientist 🤖, I focus on using AI and high-throughput experiments to study functional genomics and metagenomics at the host–microbe co‑evolutionary interface. My specific aims are:
+I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu) and [Paul Blainey](http://blainey.mit.edu). Trained as a molecular biologist 🧬, microbiologist 🦠, immunologist 🧫, and artificial‑intelligence scientist 🤖, I focus on using AI and high-throughput experiments to study functional genomics at the host–microbe co‑evolutionary interface. My specific aims are:
 
 1. **At the molecular level, develop novel molecular tools and tricks** to unlock the hidden dimensions of molecular biology.
 2. **At the systems level, leverage computer vision and high‑content screening** to explore uncharted aspects of cell biology.
