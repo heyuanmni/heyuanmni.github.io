@@ -78,9 +78,18 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 </div>
 
 
-## 🤖 Computer Vision in Biological Applications
+## 🤖 Computer Vision in Biological/Medical Applications
 
-- The state of the art in artificial intelligence and digital pathology in prostate cancer. **Heyuan Michael Ni**\*, Ramez Kouzy\*, Ali Sabbagh\*, Michael K. Rooney, Jean Feng, Simon P. Castillo, Sherif M. Gadoue, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad. In revision for *Nature Reviews Urology*.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Reviews Urology</div><img src='images/digital_patho.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The state of the art in artificial intelligence and digital pathology in prostate cancer](https://doi.org/10.1038/s41585-025-01070-2)
+
+**Heyuan Michael Ni**\*, Ramez Kouzy\*, Ali Sabbagh\*, Michael K. Rooney, Jean Feng, Simon P. Castillo, Sherif M. Gadoue, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad
+
+- A review on state of the art AI models in digital pathology for prostate cancer, and good practices in model development.
+</div>
+</div>
 
 \* equal contributions
 
