@@ -80,7 +80,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 ## 🤖 Computer Vision in Biological/Medical Applications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Reviews Urology</div><img src='images/digital_patho.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Reviews Urology</div><img src='images/digital_patho.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The state of the art in artificial intelligence and digital pathology in prostate cancer](https://doi.org/10.1038/s41585-025-01070-2)
@@ -88,10 +88,10 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 **Heyuan Michael Ni**\*, Ramez Kouzy\*, Ali Sabbagh\*, Michael K. Rooney, Jean Feng, Simon P. Castillo, Sherif M. Gadoue, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad
 
 - A review on state of the art AI models in digital pathology for prostate cancer, and good practices in model development.
-</div>
-</div>
 
 \* equal contributions
+</div>
+</div>
 
 # 💬 Invited Talks
 - *2024.05* &nbsp;**Unbiased exoproteomic screen reveals novel *Staphylococcus aureus* virulence factors**, UC Berkeley Molecular and Cell Biology Department Honors Research Symposium.
