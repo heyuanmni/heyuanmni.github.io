@@ -30,7 +30,7 @@ I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu)
 
 ## 🦠 Host-Microbe Co-Evolution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint available</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by Science Translational Medicine</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1101/2024.10.02.616386)
