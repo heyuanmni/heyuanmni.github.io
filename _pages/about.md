@@ -99,7 +99,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 
 # 📖 Education
-- *2024 - 2030 (expected)* &nbsp;**Ph.D. Biological Engineering**. School of Engineering, Massachusetts Institute of Technology.
+- *2024 - Present* &nbsp;**Ph.D. Biological Engineering**. School of Engineering, Massachusetts Institute of Technology.
 - *2022 - 2024* &nbsp;**B.S. Business Administration**. Haas School of Business, University of California, Berkeley.
 - *2020 - 2024* &nbsp;**B.A. Data Science**. College of Computing, Data Science, and Society, University of California, Berkeley.
 - *2020 - 2024* &nbsp;**B.A. Molecular and Cell Biology**. College of Letters and Science, University of California, Berkeley.
@@ -118,11 +118,11 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 
 # 🤝 Services
+- *2024 - Present* &nbsp;**Alumni Relations/Strategy & Operations Lead \| Nucleate Boston**. Facilitate Nucleate's flagship Activator program with the Boston Chapter.
 - *2024 - Present* &nbsp;**Content Creator \| Regenesis**. Create Chinese content on biomolecular engineering, synthetic biology, and systems biology.
-- *2024 - Present* &nbsp;**Alumni Relations Lead \| Nucleate Boston**. Manage relationships with Nucleate Activator alumni.
-- *2024 - Present* &nbsp;**Associate \| MIT-China Innovation and Entrepreneurship Forum**. Organize entrepreneurship forums highlighting Chinese key opinion leaders in the Boston area.
-- *2022 - Present* &nbsp;**North American Ambassador \| iGEM Community**. Advocate for open science, biosafety, and biosecurity in the synthetic biology ecosystem.
-- *2022 - Present* &nbsp;**Co-Founder & Executive Board \| US-China Life Science Venture Club**. Facilitating collaboration between the US and China's entrepreneurial and venture capital ecosystems.
+- *2024 - 2025* &nbsp;**Associate \| MIT-China Innovation and Entrepreneurship Forum**. Organize entrepreneurship forums highlighting Chinese key opinion leaders in the Boston area.
+- *2022 - 2025* &nbsp;**North American Ambassador \| iGEM Community**. Advocate for open science, biosafety, and biosecurity in the synthetic biology ecosystem.
+- *2022 - 2024* &nbsp;**Co-Founder & Executive Board \| US-China Life Science Venture Club**. Facilitating collaboration between the US and China's entrepreneurial and venture capital ecosystems.
 - *2023 - 2024* &nbsp;**Founder \| Bay Area Synthetic Biology Alliance**. Organized the inaugural Bay Area Bioengineering Symposium.
 - *2022 - 2024* &nbsp;**Co-President \| Translational Medicine and Stem Cell Association**. Form strategic partnerships and host Bay Area-wide conferences on translational medicine.
 - *2020 - 2024* &nbsp;**Experimental Director \| iGEM at Berkeley**. Create student-led research opportunities for undergraduates. Host campus-wide and Bay Area-wide research symposia.
