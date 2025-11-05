@@ -30,10 +30,10 @@ I am a PhD student at MIT co-advised by [Bryan Bryson](http://brysonlab.mit.edu)
 
 ## 🦠 Host-Microbe Co-Evolution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by Science Translational Medicine</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Translational Medicine</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1101/2024.10.02.616386)
+[Immunopeptidomics informs the design of mRNA immunogens for delivery of *Mycobacterium tuberculosis* MHC-II antigens](https://doi.org/10.1126/scitranslmed.adw9184)
 
 Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmud, **Heyuan Michael Ni**, Yuko Yuki, Kidist Bobosha, Liya Wassie, Mary Carrington, Qingyun Liu, Joel D. Ernst, Forest M. White, and Bryan D. Bryson
 
@@ -118,7 +118,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 
 # 🤝 Services
-- *2024 - Present* &nbsp;**Alumni Relations/Strategy & Operations Lead \| Nucleate Boston**. Facilitate Nucleate's flagship Activator program with the Boston Chapter.
+- *2024 - Present* &nbsp;**Strategy & Operations Lead \| Nucleate Boston**. Facilitate Nucleate's flagship Activator program with the Boston Chapter.
 - *2024 - Present* &nbsp;**Content Creator \| Regenesis**. Create Chinese content on biomolecular engineering, synthetic biology, and systems biology.
 - *2024 - 2025* &nbsp;**Associate \| MIT-China Innovation and Entrepreneurship Forum**. Organize entrepreneurship forums highlighting Chinese key opinion leaders in the Boston area.
 - *2022 - 2025* &nbsp;**North American Ambassador \| iGEM Community**. Advocate for open science, biosafety, and biosecurity in the synthetic biology ecosystem.
