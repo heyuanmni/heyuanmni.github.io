@@ -30,6 +30,18 @@ I am a PhD student at MIT co-advised by [Bryan Bryson](https://www.brysonlab.org
 
 ## 🦠 Host-Microbe Co-Evolution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint available</div><img src='images/species_diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[](https://doi.org/10.1101/2025.11.15.688116)
+
+Jonathan Padilla-Gomez, Rachel McGinn, Yisha Liang, Kendra Libby, **Heyuan Michael Ni**, Alison E. Ringel, Charles Evavold, and Bryan D. Bryson
+
+- *Mycobacterium tuberculosis* RNA-seq in human and mice macrophage infection models reveals bacterial lipid metabolism differences in different host species.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Translational Medicine</div><img src='images/Mtb_MHC-II.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,10 +54,10 @@ Owen Leddy, Paul Ogongo, Julia Huffaker, Mingyu Gan, Ryan Milligan, Sheikh Mahmu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint available</div><img src='images/Mtb_Th17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">eLife</div><img src='images/Mtb_Th17.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[*Mycobacterium tuberculosis* suppresses protective Th17 responses during infection](https://doi.org/10.1101/2025.05.08.652811)
+[*Mycobacterium tuberculosis* suppresses protective Th17 responses during infection](https://doi.org/10.7554/eLife.110008.1)
 
 Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina Agudelo, Helia Samani, and Sarah A. Stanley
 
