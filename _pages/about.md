@@ -33,7 +33,7 @@ I am a PhD student at MIT co-advised by [Bryan Bryson](https://www.brysonlab.org
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint available</div><img src='images/species_diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[](https://doi.org/10.1101/2025.11.15.688116)
+[Systems analysis reveals alternate metabolic states adopted by *Mycobacterium tuberculosis* across species](https://doi.org/10.1101/2025.11.15.688116)
 
 Jonathan Padilla-Gomez, Rachel McGinn, Yisha Liang, Kendra Libby, **Heyuan Michael Ni**, Alison E. Ringel, Charles Evavold, and Bryan D. Bryson
 
