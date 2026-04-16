@@ -37,7 +37,7 @@ I am a PhD student at MIT co-advised by [Bryan Bryson](https://www.brysonlab.org
 
 Jonathan Padilla-Gomez, Rachel McGinn, Yisha Liang, Kendra Libby, **Heyuan Michael Ni**, Alison E. Ringel, Charles Evavold, and Bryan D. Bryson
 
-- *Mycobacterium tuberculosis* RNA-seq in human and mice macrophage infection models reveals bacterial lipid metabolism differences in different host species.
+- *Mycobacterium tuberculosis* RNA-seq and high-content imaging in human and mice macrophage infection models reveal bacterial lipid metabolism differences in different host species.
 </div>
 </div>
 
@@ -74,7 +74,7 @@ Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina 
 
 Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel Oshiro, Guilhem Faure, Lukas Moeller, Julie Pham, Kepler S. Mears, **Heyuan Michael Ni**, Rhiannon K. Macrae, and Feng Zhang
 
-- Bioinformatics-guided engineering of the CRISPR-Cas9 progenitor IscB as a compact genomic and epigenomic editor in living cells and animals.
+- Bioinformatics-guided engineering of the CRISPR-Cas9 progenitor IscB as a compact genome and epigenome editor in living cells and animals.
 </div>
 </div>
 
@@ -85,7 +85,7 @@ Soumya Kannan, Han Altae-Tran, Shiyou Zhu, Peiyu Xu, Daniel Strebinger, Rachel O
 
 Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward Lien, Cerise Wong, Eduardo González-Grandío, and Markita P. Landry
 
-- A split-GFP tool allowing quantitative confocal microscopy readout of protein cargo delivery efficiency in plant leaves.
+- A split-GFP tool coupled with high-content imaging, enabling quantitative confocal microscopy readout of protein cargo delivery efficiency in plant leaves.
 </div>
 </div>
 
@@ -99,7 +99,7 @@ Jeffrey W. Wang, Henry J. Squire, Natalie S. Goh, **Heyuan Michael Ni**, Edward 
 
 **Heyuan Michael Ni**\*, Ramez Kouzy\*, Ali Sabbagh\*, Michael K. Rooney, Jean Feng, Simon P. Castillo, Sherif M. Gadoue, Zakaria El Kouzi, Karen Hoffman, Yinyin Yuan, Anant Madabhushi, and Osama Mohamad
 
-- A review on state of the art AI models in digital pathology for prostate cancer, and good practices in model development.
+- A review on state of the art AI/ML models in digital pathology for prostate cancer, and good practices in model development.
 
 \* equal contributions
 </div>
