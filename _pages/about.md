@@ -65,7 +65,18 @@ Alex Zilinskas, Amir Balakhmet, Douglas M. Fox, **Heyuan Michael Ni**, Carolina 
 </div>
 </div>
 
-## 🧬 Molecular Tool Development
+## 🧬 Molecular Technology Development
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/switchcraft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SwitchCraft: Programmatic Design of State-Switching Proteins](https://icml.cc/virtual/2026/poster/63230)
+
+Bowen Jing, Mihir Bafna, Anisha Parsan, **Heyuan Michael Ni**, David Kwabi-Addo, Bryan D. Bryson, Adam Klivans, and Bonnie Berger
+
+- Optimization-based programmable design protocol for conditionally conformational switching proteins.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotechnology</div><img src='images/IscB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
